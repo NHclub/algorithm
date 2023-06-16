@@ -1,3 +1,5 @@
+package _06_16;
+
 import java.util.Scanner;
 
 public class Problem1 {

@@ -1,3 +1,5 @@
+package _06_16;
+
 public class Problem10 {
     public int[][] solution(int[][] arr1, int[][] arr2){
         int[][] answer = new int[arr1.length][arr1[0].length];

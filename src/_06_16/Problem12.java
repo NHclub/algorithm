@@ -1,3 +1,5 @@
+package _06_16;
+
 public class Problem12 {
     public double solution(double price, double money, double count) {
         double answer = 0;

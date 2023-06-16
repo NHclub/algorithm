@@ -1,3 +1,5 @@
+package _06_16;
+
 public class Problem4 {
     public long solution(int a, int b) {
         long answer = 0;

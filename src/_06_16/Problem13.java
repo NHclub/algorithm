@@ -1,3 +1,5 @@
+package _06_16;
+
 public class Problem13 {
     public String solution(int a, int b) {
 

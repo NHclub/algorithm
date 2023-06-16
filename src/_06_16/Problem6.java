@@ -1,3 +1,5 @@
+package _06_16;
+
 public class Problem6 {
     public int solution(int[] numbers) {
 

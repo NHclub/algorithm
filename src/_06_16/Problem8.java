@@ -1,3 +1,5 @@
+package _06_16;
+
 public class Problem8 {
     public double solution(int[] arr) {
         double answer = 0;

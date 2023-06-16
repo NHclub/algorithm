@@ -1,3 +1,5 @@
+package _06_16;
+
 public class Problem11 {
     public double[] solution(double x, int n) {
         double[] answer = new double[n];

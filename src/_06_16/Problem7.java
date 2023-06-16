@@ -1,3 +1,5 @@
+package _06_16;
+
 public class Problem7 {
     public int solution(int[] absolutes, boolean[] signs) {
         int answer = 0;

@@ -30,10 +30,4 @@ public class Problem26 {
 
         return answer;
     }
-
-    public static void main(String[] args) {
-        Problem26 problem26 = new Problem26();
-        int[] arr = {10,4,8,9};
-        problem26.solution(arr);
-    }
 }

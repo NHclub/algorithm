@@ -22,10 +22,4 @@ public class Problem27 {
 
         return count;
     }
-
-    public static void main(String[] args) {
-        Problem27 problem27 = new Problem27();
-        int num = 626331;
-        problem27.solution(num);
-    }
 }

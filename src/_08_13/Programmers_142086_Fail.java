@@ -19,7 +19,7 @@ public class Programmers_142086_Fail {
                 isIncludeChar.add(s.charAt(i));
             }
             if (isIncludeChar.contains(s.charAt(i))) {
-                isIncludeChar.remove()
+//                isIncludeChar.remove()
             }
         }
         //마지막 발생 문자를 어떻게 저장해야 할 지.. 떠오르지 않음
